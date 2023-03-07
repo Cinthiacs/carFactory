@@ -5,6 +5,6 @@ O projeto consiste em coletar informações sobre:
 - Marca do veículo.
 - Valor do custo de fábrica.
 - Porcentagem do distribuidor.
-- porcentagem do imposto.
+- Porcentagem do imposto.
 
 E como resultado, exibir o valor final para venda do produto.
