@@ -28,7 +28,7 @@ public class carFactory {
         System.out.println(name + " O veículo " + carName);
 
         float salePrice = ((distributorPrice*(distributorPercentage+percentageTax)/100)+ distributorPrice);
-        System.out.println("Fica no valor para venda de: " + salePrice); 
+        System.out.println("O valor para venda é de: " + salePrice); 
 
         
     }
