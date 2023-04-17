@@ -7,7 +7,6 @@ Esse projeto consiste em uma aplicação Java simples que calcula o preço de ve
 1. Clone o repositório para sua máquina local usando o seguinte comando no terminal:
 
 ``bash``
-* Copy code
 * git clone https://github.com/seu-usuario/seu-repositorio.git
 2. Abra o projeto na IDE de sua escolha.
 
