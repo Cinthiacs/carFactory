@@ -1,4 +1,4 @@
-# Desafio_carFactory
+# Desafio carFactory
 
 Esse projeto consiste em uma aplicação Java simples que calcula o preço de venda de um veículo, com base no seu custo de fábrica, na porcentagem do distribuidor e na porcentagem do imposto.
 
@@ -6,8 +6,12 @@ Esse projeto consiste em uma aplicação Java simples que calcula o preço de ve
 * Para executar o projeto, você precisará ter o Java instalado em seu computador e também uma IDE, como o Vscode, instalada e configurada.
 1. Clone o repositório para sua máquina local usando o seguinte comando no terminal:
 
-``bash``
-* git clone https://github.com/seu-usuario/seu-repositorio.git
+```bash
+# clonar repositório
+git clone https://github.com/Cinthiacs/carFactory.git
+# Abrir carFactory.java 
+```
+
 2. Abra o projeto na IDE de sua escolha.
 
 3. Compile e execute o código.
