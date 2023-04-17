@@ -20,5 +20,5 @@ Esse projeto consiste em uma aplicação Java simples que calcula o preço de ve
 
 Contribuições são sempre bem-vindas! Se você tiver alguma sugestão de melhoria ou correção de bugs, sinta-se à vontade para enviar uma pull request ou abrir uma issue.
 
-## Autora
+### Autora
 Cinthia Cavalheiro.
